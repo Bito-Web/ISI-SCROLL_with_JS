@@ -19,22 +19,6 @@
 		</div>
 
 		- Besides that, the ISI container must to have the CSS property OVERFLOW with the value "auto", this will show the scroll-bar
-		#isi {
-			width: 300px;
-			height: 250px;
-			position: relative;
-			left: 0px;
-			top: 0px;
-			// overflow: hidden; //No es necesario
-		}
-		.mCustomScrollBox {
-    		position: relative;
-			overflow: hidden;
-			height: 100%;
-			max-width: 100%;
-			outline: 0px;
-			direction: ltr;
-		}
 	*********************
 	** Ends #Important **
 	*********************
